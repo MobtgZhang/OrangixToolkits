@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/file-manager.svg">icons/file-manager.svg</file>
+        <file alias="icons/terminal.svg">icons/terminal.svg</file>
+        <file alias="icons/settings.svg">icons/settings.svg</file>
+        <file alias="icons/launcher.svg">icons/launcher.svg</file>
+        <file alias="icons/folder.svg">icons/folder.svg</file>
+        <file alias="icons/folder-documents.svg">icons/folder-documents.svg</file>
+        <file alias="icons/folder-download.svg">icons/folder-download.svg</file>
+        <file alias="icons/folder-music.svg">icons/folder-music.svg</file>
+        <file alias="icons/folder-pictures.svg">icons/folder-pictures.svg</file>
+        <file alias="icons/folder-videos.svg">icons/folder-videos.svg</file>
+        <file alias="icons/home.svg">icons/home.svg</file>
+        <file alias="icons/trash.svg">icons/trash.svg</file>
+    </qresource>
+</RCC>
